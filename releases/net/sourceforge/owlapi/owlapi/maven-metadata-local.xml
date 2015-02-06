@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sourceforge.owlapi</groupId>
+  <artifactId>owlapi</artifactId>
+  <versioning>
+    <release>3.1.0</release>
+    <versions>
+      <version>3.1.0</version>
+    </versions>
+    <lastUpdated>20150206144048</lastUpdated>
+  </versioning>
+</metadata>
