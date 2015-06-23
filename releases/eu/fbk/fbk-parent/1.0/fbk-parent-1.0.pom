@@ -151,7 +151,6 @@
 
     <build>
         <pluginManagement>
-
             <plugins>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
@@ -194,15 +193,6 @@
                             </goals>
                         </execution>
                     </executions>
-                    <configuration>
-                        <descriptors>
-                            <descriptor>src/main/assembly/src.xml</descriptor>
-                            <descriptor>src/main/assembly/bin.xml</descriptor>
-                        </descriptors>
-                        <descriptorRefs>
-                            <descriptorRef>jar-with-dependencies</descriptorRef>
-                        </descriptorRefs>
-                    </configuration>
                 </plugin>
             </plugins>
         </pluginManagement>
