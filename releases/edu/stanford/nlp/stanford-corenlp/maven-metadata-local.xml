@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.stanford.nlp</groupId>
+  <artifactId>stanford-corenlp</artifactId>
+  <versioning>
+    <release>3.5.2-FBK</release>
+    <versions>
+      <version>3.5.2-FBK</version>
+    </versions>
+    <lastUpdated>20151227201832</lastUpdated>
+  </versioning>
+</metadata>
