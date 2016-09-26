@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Sep 26 15:02:50 CEST 2016
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://raw.githubusercontent.com/fbk/mvn-repo/master/releases/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1474894970811
+http\://gardner.fbk.eu\:50008/artifactory/libs-release/.lastUpdated=1474894970418
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1474894969975
+http\://repo.maven.apache.org/maven2/.error=
+http\://gardner.fbk.eu\:50008/artifactory/libs-snapshot/.error=
+http\://gardner.fbk.eu\:50008/artifactory/libs-release/.error=
+http\://gardner.fbk.eu\:50008/artifactory/libs-snapshot/.lastUpdated=1474894970430
+https\://raw.githubusercontent.com/fbk/mvn-repo/master/releases/.lastUpdated=1474894970690
